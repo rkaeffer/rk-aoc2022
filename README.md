@@ -2,7 +2,7 @@
 
 This repository contains my solutions in java to the problems of [Advent of Code 2022](https://adventofcode.com/2022).
 
-Hope we can save 🧝‍♀️ elves 🧝‍♂️ christmas by retrieving all the 🔑 !
+Hope we can save 🧝‍♀️ elves 🧝‍♂️ christmas by helping them esppace the island !
 
 # 🎄 Quick links 🎄
 
